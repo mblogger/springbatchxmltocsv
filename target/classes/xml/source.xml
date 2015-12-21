@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+	<category>
+		<name>Phones</name>
+		<is_active>true</is_active>
+		<description>All kinds and brands of Phones</description>
+		<is_anchor>true</is_anchor>
+		<url_key>phones</url_key>
+		<include_in_menu>true</include_in_menu>
+		<meta_description>Phones</meta_description>
+		<meta_keywords>Phones</meta_keywords>
+		<meta_title>Phones</meta_title>
+		<parent></parent>
+	</category>
+	<category>
+		<name>Cell Phones</name>
+		<is_active>true</is_active>
+		<description>Cell Phones</description>
+		<is_anchor>true</is_anchor>
+		<url_key>cell-phones</url_key>
+		<include_in_menu>true</include_in_menu>
+		<meta_description>Cell Phones</meta_description>
+		<meta_keywords>Cell Phones</meta_keywords>
+		<meta_title>Cell Phones</meta_title>
+		<parent>Phones</parent>
+	</category>
+</categories>
